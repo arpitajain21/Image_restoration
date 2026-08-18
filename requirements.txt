@@ -1,2 +1,16 @@
-torch==2.4.1
-numpy==1.26.4
+# Core Deep Learning
+numpy==2.2.6
+scipy==1.16.0
+torch==2.6.0
+torchmetrics==1.8.2
+lpips==0.1.4
+
+# Visualization & Development
+matplotlib==3.8.2
+jupyter==1.0.0
+ipython==8.18.1
+tqdm==4.66.1
+
+# Image Processing
+pillow==10.1.0
+opencv-python==4.8.1.78
